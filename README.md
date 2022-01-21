@@ -9,3 +9,5 @@ The tool is a modified fork of gofmt
 #### Goland File watch
 
 ![Goland File watch](images/gofumpt-goland.png)
+
+!Важно. Не забыть в Advanced Options убрать галочку на Auto-save. Иначе заебет
